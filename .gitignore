@@ -49,6 +49,14 @@ captures/
 .idea/modules.xml
 # Comment next line if keeping position of elements in Navigation Editor is relevant for you
 .idea/navEditor.xml
+.idea/libraries/
+.idea/.name
+.idea/compiler.xml
+.idea/copyright/profiles_settings.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/scopes/scope_settings.xml
+.idea/vcs.xml
 
 # Keystore files
 # Uncomment the following lines if you do not want to check your keystore files in.
@@ -84,11 +92,5 @@ lint/outputs/
 lint/tmp/
 # lint/reports/
 
-# OS-specific files
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
+# Android Profiling
+*.hprof
